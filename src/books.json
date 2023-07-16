@@ -1,0 +1,80 @@
+[
+  {
+    "id": "5229ba39-b68f-4ac7-871d-2817d4263dc4",
+    "title": "Run, Craig, Run",
+    "author": "Brian Nguyen",
+    "synopsis": "From there to here, from here to there, funny things are everywhere. Here are some who like to run. They run for fun in the hot, hot sun.",
+    "thumbnail": "thumbnails/pexels-craig-adderley-1563356.jpg"
+  },
+  {
+    "id": "09de0b91-6e27-4db5-9f13-2fabd2f6d008",
+    "title": "Starry Knight",
+    "author": "Thomas Southworth",
+    "synopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit, felis nec iaculis eleifend, massa orci feugiat lectus, a tristique nulla mi sit amet odio. Morbi ante justo, imperdiet ut sodales at, auctor vel orci. Curabitur odio massa, finibus eu elit at, bibendum pharetra tellus. Fusce ut erat in felis tristique facilisis. Suspendisse odio nibh, blandit nec diam vel, eleifend eleifend risus. Aliquam aliquam sit amet augue id aliquam. Praesent rutrum diam et mattis pulvinar. Curabitur facilisis lacus nec egestas aliquam.",
+    "thumbnail": "thumbnails/pexels-egil-sjøholt-1906658.jpg",
+    "category": "sci-fi"
+  },
+  {
+    "id": "7ed02022-a313-479a-90e1-f4c7e26a16d7",
+    "title": "The Black Brumby",
+    "author": "Guitar Patterson",
+    "synopsis": "Mauris quis tincidunt lectus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Maecenas felis metus, pretium in dignissim in, hendrerit id ex. Mauris gravida, quam non fermentum vestibulum, lectus est fermentum lacus, et ultricies metus risus feugiat odio. Suspendisse sit amet ullamcorper risus, eu tristique justo. Fusce nec augue nisl. Aenean porttitor dolor quam, sit amet tincidunt nibh tempus eget. Donec euismod, mauris vel posuere auctor, nibh odio blandit augue, non lobortis neque felis non nisl. Vivamus facilisis, est quis posuere egestas, erat turpis convallis est, vitae tempor sapien est quis dui. Donec facilisis porta magna sit amet facilisis. Sed eleifend nec odio at imperdiet. Morbi vulputate tristique commodo. Nulla ac sapien sed tortor dapibus eleifend in nec lectus. Phasellus nec erat id diam finibus tincidunt ut in ligula. Maecenas maximus nisl nisi, nec elementum urna faucibus nec. Vivamus laoreet tortor vel tellus faucibus vestibulum. ",
+    "thumbnail": "thumbnails/pexels-mali-maeder-101667.jpg",
+    "category": "teen"
+  },
+  {
+    "id": "b534c01d-1145-437d-bc01-ff21f8e4b31a",
+    "title": "The House with a Light",
+    "author": "Diana Desouza",
+    "synopsis": "Vivamus ac nulla finibus, congue magna at, sagittis velit. Suspendisse eget hendrerit elit, id mattis neque. Duis vel congue felis. Integer vitae leo a mauris fermentum convallis quis in sem. Curabitur libero augue, pharetra a nisi vel, posuere euismod magna. Cras imperdiet feugiat sapien sed vehicula. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis in lectus aliquet, consectetur magna non, consectetur lectus. In eget pulvinar felis. Duis ornare neque quis leo hendrerit posuere. Nullam in nulla vehicula, luctus dui eget, imperdiet nibh. Donec nibh eros, malesuada eget efficitur non, lobortis et ligula. Donec posuere turpis libero, in malesuada nisi scelerisque elementum. Mauris imperdiet, lacus nec rhoncus facilisis, mi turpis imperdiet massa, non commodo eros orci id urna. Etiam quis ante magna. ",
+    "thumbnail": "thumbnails/pexels-anand-dandekar-1532771.jpg",
+    "category": "romance"
+  },
+  {
+    "id": "f82817fb-62bb-420a-9c29-f08f618f4809",
+    "title": "The Magician's Cyborg",
+    "author": "Brian Nguyen",
+    "synopsis": "Etiam semper id diam vitae posuere. Ut vestibulum volutpat leo eget luctus. Nullam commodo aliquam commodo. Suspendisse at fringilla magna. Aliquam eleifend, sem vitae convallis ultricies, orci lacus tempor urna, at fringilla metus justo eu mauris. Pellentesque auctor iaculis magna a fringilla. Ut sit amet purus in ligula gravida hendrerit eget vel enim. ",
+    "thumbnail": "thumbnails/pexels-eberhard-grossgasteiger-2088210.jpg",
+    "category": "fantasy"
+  },
+  {
+    "id": "39d6cd13-526c-4035-bcdb-92912dcedba7",
+    "title": "You ARE clean and tidy",
+    "author": "Sararh Lux-Lee",
+    "synopsis": "Get your home AND life clean and tidy purely by the power of positive thinking.",
+    "thumbnail": "thumbnails/pexels-ylanite-koppens-843226.jpg",
+    "category": "self-help"
+  },
+  {
+    "id": "ffc82a67-62e1-4860-9993-deb6b75e94e9",
+    "title": "The Tree of Life",
+    "author": "Thomas Southworth",
+    "synopsis": "Donec nec ultricies magna, a sodales ipsum. Cras ut mauris dolor. Nam egestas risus vel nunc pellentesque, eu lobortis sem dictum. Donec congue justo in ultricies mollis. Sed purus leo, commodo a pharetra quis, lobortis in leo. Nullam laoreet convallis tristique. Ut et urna pellentesque, euismod ante at, convallis quam. Cras at suscipit erat. Duis diam massa, malesuada vitae suscipit vel, tempus nec massa. Nulla a scelerisque lacus, vitae pharetra enim. Nunc hendrerit mattis libero, nec dignissim enim semper non. Duis a leo sed ex pulvinar eleifend porta ac felis. ",
+    "thumbnail": "thumbnails/pexels-pixabay-36717.jpg",
+    "category": "fantasy"
+  },
+  {
+    "id": "0fc8695b-d4c3-465f-b64a-e0789eb5040e",
+    "title": "Gardening for Mannequins",
+    "author": "Costa",
+    "synopsis": "Morbi eget nisi maximus, auctor odio nec, semper neque. Duis vitae rhoncus nunc. Donec imperdiet, nisi et tempus sodales, est purus fermentum lorem, id consectetur tortor est sit amet sapien. Suspendisse id ligula felis. Pellentesque pellentesque nec lectus ut vestibulum. Aliquam suscipit lectus vitae diam dignissim ornare. Aliquam a ultricies eros. ",
+    "thumbnail": "public/thumbnails/pexels-pixabay-60597.jpg",
+    "category": "self-help"
+  },
+  {
+    "id": "666f0331-241e-42de-984f-655195a3f8cc",
+    "title": "Run, Craig, Run Again",
+    "author": "Brian Nguyen",
+    "synopsis": "After the events of 'Run, Craig, Run. We rejoin Craig on his quest to be the fastest fun runner.",
+    "thumbnail": "public/thumbnails/pexels-sebastian-palomino-1955134.jpg"
+  },
+  {
+    "id": "3590393c-2f30-4f1d-a050-064219f48da0",
+    "title": "Astronomy for Mannequins",
+    "author": "Thomas Southworth",
+    "synopsis": " Donec vitae luctus augue. Donec elementum nibh rutrum tempor tincidunt. Ut pellentesque consectetur laoreet. Sed vitae risus at erat dignissim dictum. Cras semper lorem sit amet lobortis tempus. Proin vitae porttitor tortor. Donec accumsan sapien eget efficitur ullamcorper. Maecenas efficitur imperdiet quam, ut vestibulum massa mollis vel. Nulla sit amet quam ligula. ",
+    "thumbnail": "thumbnails/pexels-sebastian-palomino-1955134.jpg",
+    "category": "self-help"
+  }
+]

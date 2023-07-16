@@ -1,0 +1,14 @@
+.wrapper {
+  display: flex;
+  border: 1px solid;
+  padding: 10px;
+}
+
+img {
+  height: 200px;
+  width: 150px;
+}
+
+.thumbnail {
+  margin: 0 10px 0 0;
+}
